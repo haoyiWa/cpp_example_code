@@ -3,7 +3,6 @@
 #include <sys/time.h>
 #include <unistd.h>// sleep header file
 #include <ctime>
-
 #include "write&read.h"
 #include "string&num.h"
 
