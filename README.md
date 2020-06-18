@@ -7,4 +7,4 @@ some example code written in cpp
 4. write a file
 5. calculate running time
 6. calculate CPU time
-7. vscode setting
+7. vscode cpp setting
