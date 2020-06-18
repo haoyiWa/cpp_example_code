@@ -13,7 +13,6 @@
             //"request":"attach",
             "preLaunchTask": "g++ build active file",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
-            
             /*
             "args": [],
             "stopAtEntry": true,
