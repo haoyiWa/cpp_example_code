@@ -21,6 +21,7 @@ int main()
     test_stringnum();
     readwritetest();
     sleep(1);
+    
     timeval finish;
 	gettimeofday (&finish , NULL);
     /**********function test end********/
@@ -28,7 +29,6 @@ int main()
 	cout<<"run time : "<<(finish.tv_sec - start.tv_sec)+ cost_time/1000000.0<<endl;
     t = clock() - t;
     cout << "CPU time : " << ((double)t)/CLOCKS_PER_SEC << "s" << endl;
-    
     return 0;
 }
 
